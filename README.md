@@ -1,2 +1,11 @@
-# my-token-3-dca-57-ae-ico
-My Token 3DCA57AE ICO Smart Contract
+# My Token 3DCA57AE ICO Smart Contract
+
+## Common
+
+This is an implementation of the Ethereum ERC20 smart-contract is used by project My Token 3DCA57AE
+
+<b>Plugins / 3rd party tools:</b>
+
+[https://github.com/OpenZeppelin/zeppelin-solidity/](https://github.com/OpenZeppelin/zeppelin-solidity/)
+
+[https://github.com/TokenMarketNet/ico](https://github.com/TokenMarketNet/ico)
